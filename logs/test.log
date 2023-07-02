@@ -1,0 +1,463 @@
+INFO 2023-07-02 13:20:31,452 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:20:31,452 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:20:31,453 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:21:28,538 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:21:28,539 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:21:28,539 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:21:35,653 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:21:35,653 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:21:35,653 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:22:04,059 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:22:04,060 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:22:04,063 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:23:01,328 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:23:01,329 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:23:01,329 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:25:20,696 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:25:20,697 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:25:20,697 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:26:41,225 root: This is my second code for logging.
+WARNING 2023-07-02 13:26:41,225 root: this is will generate a warning message in the log file.
+INFO 2023-07-02 13:26:41,228 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:26:41,228 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:26:41,228 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:28:12,838 root: This is my second code for logging.
+WARNING 2023-07-02 13:28:12,838 root: this is will generate a warning message in the log file.
+INFO 2023-07-02 13:28:12,838 root: This is the data [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO 2023-07-02 13:28:12,838 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:28:12,838 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:28:12,838 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:28:36,459 root: This is my second code for logging.
+WARNING 2023-07-02 13:28:36,459 root: this is will generate a warning message in the log file.
+INFO 2023-07-02 13:28:36,459 root: This is the data [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science ']]
+INFO 2023-07-02 13:28:36,459 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:28:36,459 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:28:36,459 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:30:53,974 root: These are all the list entities in the data given:
+INFO 2023-07-02 13:30:53,974 root: [1, 2, 3, 4]
+INFO 2023-07-02 13:30:53,974 root: ['ineuron', 'data science ']
+INFO 2023-07-02 13:30:53,974 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:27:37,382 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:27:37,382 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:27:37,382 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:27:37,382 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:27:37,382 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:27:37,382 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:27:37,382 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:35:50,196 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:35:50,196 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:35:50,197 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:35:50,197 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:35:50,197 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:35:50,197 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:35:50,197 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:35:50,197 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:35:50,197 root: {45, 4, 5, 23}
+INFO 2023-07-02 15:45:19,268 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:45:19,268 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:45:19,268 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:45:19,268 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:45:19,268 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:45:19,269 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:45:19,269 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:45:19,269 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:45:19,269 root: {45, 4, 5, 23}
+INFO 2023-07-02 15:45:19,269 root: []
+INFO 2023-07-02 15:48:42,706 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:48:42,706 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:48:42,706 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:48:42,706 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:48:42,706 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:48:42,707 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:48:42,707 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:48:42,707 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:48:42,707 root: {45, 4, 5, 23}
+INFO 2023-07-02 15:49:21,102 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:49:21,102 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:49:21,102 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:49:21,102 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:49:21,102 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:49:21,102 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:49:21,102 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:49:21,103 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:49:21,103 root: {45, 4, 5, 23}
+ERROR 2023-07-02 15:49:21,103 root: name 'i' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 82, in extract_numericals
+    for k,v in i.items():
+NameError: name 'i' is not defined
+INFO 2023-07-02 15:51:31,215 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:51:31,216 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:51:31,216 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:51:31,216 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:51:31,216 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:51:31,216 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:51:31,216 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:51:31,216 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:51:31,216 root: {45, 4, 5, 23}
+ERROR 2023-07-02 15:51:31,217 root: name 'i' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 82, in extract_numericals
+    for k,v in i.items():
+NameError: name 'i' is not defined
+INFO 2023-07-02 15:53:24,579 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:53:24,580 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:53:24,580 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:53:24,580 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:53:24,580 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:53:24,580 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:53:24,580 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:53:24,580 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:53:24,580 root: {45, 4, 5, 23}
+ERROR 2023-07-02 15:53:24,581 root: name 'num_vals' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 84, in extract_numericals
+    num_vals.append(k)
+NameError: name 'num_vals' is not defined
+INFO 2023-07-02 15:53:59,408 root: These are all the list entities in the data given:
+INFO 2023-07-02 15:53:59,409 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 15:53:59,409 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:53:59,409 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 15:53:59,409 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 15:53:59,409 root: These are all the dict entities in the data given:
+INFO 2023-07-02 15:53:59,409 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 15:53:59,409 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 15:53:59,409 root: {45, 4, 5, 23}
+INFO 2023-07-02 15:53:59,409 root: [3, 6, 7, 8]
+INFO 2023-07-02 16:17:58,482 root: These are all the list entities in the data given:
+INFO 2023-07-02 16:17:58,483 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 16:17:58,483 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:17:58,483 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:17:58,483 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:17:58,483 root: These are all the dict entities in the data given:
+INFO 2023-07-02 16:17:58,483 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:17:58,483 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:17:58,483 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:18:42,215 root: These are all the list entities in the data given:
+INFO 2023-07-02 16:18:42,215 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 16:18:42,216 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:18:42,216 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:18:42,216 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:18:42,216 root: These are all the dict entities in the data given:
+INFO 2023-07-02 16:18:42,216 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:18:42,216 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:18:42,216 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:19:01,342 root: These are all the list entities in the data given:
+INFO 2023-07-02 16:19:01,342 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 16:19:01,342 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:19:01,342 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:19:01,342 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:19:01,342 root: These are all the dict entities in the data given:
+INFO 2023-07-02 16:19:01,343 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:19:01,343 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:19:01,343 root: {45, 4, 5, 23}
+ERROR 2023-07-02 16:19:01,343 root: name 'get_numerical_values' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 88, in extract_numericals
+    numerical_values.extend(get_numerical_values(item))
+NameError: name 'get_numerical_values' is not defined
+INFO 2023-07-02 16:21:10,720 root: These are all the list entities in the data given:
+INFO 2023-07-02 16:21:10,720 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 16:21:10,720 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:21:10,720 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:21:10,720 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:21:10,721 root: These are all the dict entities in the data given:
+INFO 2023-07-02 16:21:10,721 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:21:10,721 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:21:10,721 root: {45, 4, 5, 23}
+ERROR 2023-07-02 16:21:10,721 root: name 'extract_numericals' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 88, in extract_numericals
+    numerical_values.extend(extract_numericals(item))
+NameError: name 'extract_numericals' is not defined
+INFO 2023-07-02 16:22:23,974 root: These are all the list entities in the data given:
+INFO 2023-07-02 16:22:23,974 root: This is the data [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 16:22:23,975 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:22:23,975 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:22:23,975 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:22:23,975 root: These are all the dict entities in the data given:
+INFO 2023-07-02 16:22:23,975 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:22:23,975 root: These are all the tuple entities in the data given:
+INFO 2023-07-02 16:22:23,975 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:31:48,699 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:31:48,699 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:31:48,700 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:31:48,700 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:31:48,700 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:31:48,700 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:31:48,700 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:31:48,700 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:31:48,700 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:31:48,700 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:36:32,626 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:36:32,626 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:36:32,626 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:36:32,626 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:36:32,626 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:36:32,627 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:36:32,627 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:36:32,627 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:36:32,627 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:36:32,627 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:40:37,442 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:40:37,442 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:40:37,442 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:40:37,442 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:40:37,442 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:40:37,442 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:40:37,442 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:40:37,442 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:40:37,442 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:40:37,442 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:40:37,442 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:41:28,527 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:41:28,527 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:41:28,527 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:41:28,528 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:41:28,528 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:41:28,528 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:41:28,528 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:41:28,528 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:41:28,528 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:41:28,528 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:41:28,528 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:48:36,552 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:48:36,552 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:48:36,552 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:48:36,552 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:48:36,552 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:48:36,552 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:48:36,552 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:48:36,552 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:48:36,552 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:48:36,552 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:48:36,553 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:48:36,553 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:48:36,553 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:48:36,553 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:48:36,553 root: These are the numerical values [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2023-07-02 16:48:36,553 root: unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 65, in odd_numbers
+    if i % 3 == 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2023-07-02 16:49:41,461 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:49:41,461 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:49:41,461 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:49:41,461 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:49:41,462 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:49:41,462 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:49:41,462 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:49:41,462 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:49:41,462 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:49:41,462 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:49:41,462 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:49:41,462 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:49:41,462 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:49:41,462 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:49:41,462 root: These are the numerical values [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2023-07-02 16:49:41,462 root: unsupported operand type(s) for %: 'list' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 65, in odd_numbers
+    if i % 2 != 0:
+TypeError: unsupported operand type(s) for %: 'list' and 'int'
+INFO 2023-07-02 16:54:56,308 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:54:56,308 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:54:56,308 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:54:56,308 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:54:56,308 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:54:56,308 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:54:56,308 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:54:56,308 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:54:56,308 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:54:56,308 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:54:56,309 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:54:56,309 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:54:56,309 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:54:56,309 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:54:56,309 root: These are the numerical values []
+INFO 2023-07-02 16:57:03,156 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:03,156 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:03,156 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:57:03,156 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:57:03,156 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:57:03,156 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:57:03,156 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:57:03,156 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:57:03,156 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:57:03,156 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:57:03,156 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:57:03,156 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:03,157 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:03,157 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:57:03,157 root: These are the numerical values []
+ERROR 2023-07-02 16:57:03,157 root: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 65, in odd_numbers
+    for i in num_list[0]:
+IndexError: list index out of range
+INFO 2023-07-02 16:57:37,549 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:37,549 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:37,549 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:57:37,549 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:57:37,549 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:57:37,549 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:57:37,549 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:57:37,550 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:57:37,550 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:57:37,550 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:57:37,550 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:57:37,550 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:37,550 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:37,550 root: ['ineuron', 'data science ']
+ERROR 2023-07-02 16:57:37,550 root: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 64, in odd_numbers
+    logging.info(f"These are the numerical values {num_list[0]}")
+IndexError: list index out of range
+INFO 2023-07-02 16:57:58,174 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:58,174 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:58,174 root: ['ineuron', 'data science ']
+INFO 2023-07-02 16:57:58,174 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 16:57:58,174 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 16:57:58,174 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 16:57:58,174 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 16:57:58,174 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 16:57:58,174 root: These are all the set entities in the data given: 
+INFO 2023-07-02 16:57:58,175 root: {45, 4, 5, 23}
+INFO 2023-07-02 16:57:58,175 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 16:57:58,175 root: These are all the list entities in the data given: 
+INFO 2023-07-02 16:57:58,175 root: [1, 2, 3, 4]
+INFO 2023-07-02 16:57:58,175 root: ['ineuron', 'data science ']
+ERROR 2023-07-02 16:57:58,175 root: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 64, in odd_numbers
+    logging.info(f"These are the numerical values {num_list[0]}")
+IndexError: list index out of range
+INFO 2023-07-02 17:00:21,473 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:00:21,473 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:00:21,473 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:00:21,473 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:00:21,473 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:00:21,473 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:00:21,473 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:00:21,473 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:00:21,473 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:00:21,473 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:00:21,474 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:01:08,158 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:01:08,158 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:01:08,158 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:01:08,158 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:01:08,158 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:01:08,158 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:01:08,158 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:01:08,158 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:01:08,158 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:01:08,158 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:01:08,158 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:01:08,158 root: These are list [[1, 2, 3, 4], ['ineuron', 'data science ']]
+INFO 2023-07-02 17:03:12,080 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:03:12,081 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:03:12,081 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:03:12,081 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:03:12,081 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:03:12,081 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:03:12,081 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:03:12,081 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:03:12,081 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:03:12,081 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:03:12,081 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:03:27,224 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:03:27,224 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:03:27,224 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:03:27,225 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:03:27,225 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:03:27,225 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:03:27,225 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:03:27,225 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:03:27,225 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:03:27,225 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:03:27,225 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:03:27,225 root: These are list [1, 2, 3, 4]
+INFO 2023-07-02 17:20:32,489 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:20:32,489 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:20:32,489 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:20:32,489 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:20:32,489 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:20:32,489 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:20:32,489 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:20:32,489 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:20:32,489 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:20:32,490 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:20:32,490 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:20:32,490 root: These are list [1, 2, 3, 4]
+ERROR 2023-07-02 17:20:32,490 root: name 'odd_numm' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 68, in odd_numbers
+    return odd_numm
+NameError: name 'odd_numm' is not defined
+INFO 2023-07-02 17:20:53,204 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:20:53,204 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:20:53,205 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:20:53,205 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:20:53,205 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:20:53,205 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:20:53,205 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:20:53,205 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:20:53,205 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:20:53,205 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:20:53,205 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:20:53,205 root: These are list [1, 2, 3, 4]
+INFO 2023-07-02 17:24:49,026 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:24:49,026 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:24:49,026 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:24:49,026 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:24:49,026 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:24:49,026 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:24:49,026 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:24:49,026 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:24:49,026 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:24:49,026 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:24:49,026 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 8]
+INFO 2023-07-02 17:24:49,026 root: These are list [1, 2, 3, 4]
+INFO 2023-07-02 17:29:02,671 root: These are all the list entities in the data given: 
+INFO 2023-07-02 17:29:02,671 root: [1, 2, 3, 4]
+INFO 2023-07-02 17:29:02,672 root: ['ineuron', 'data science ']
+INFO 2023-07-02 17:29:02,672 root: These are all the dict entities in the data given: 
+INFO 2023-07-02 17:29:02,672 root: {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2023-07-02 17:29:02,672 root: These are all the tuple entities in the data given: 
+INFO 2023-07-02 17:29:02,672 root: (2, 3, 4, 5, 6)
+INFO 2023-07-02 17:29:02,672 root: (3, 4, 5, 6, 7)
+INFO 2023-07-02 17:29:02,672 root: These are all the set entities in the data given: 
+INFO 2023-07-02 17:29:02,672 root: {45, 4, 5, 23}
+INFO 2023-07-02 17:29:02,672 root: This is the list of Numericals [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 3, 8, 7]
+INFO 2023-07-02 17:29:02,672 root: These are list [1, 2, 3, 4]
+INFO 2023-07-02 17:49:45,684 root: Found 'ineuron' in the dictionary.
+INFO 2023-07-02 17:49:45,684 root: ineuron
+INFO 2023-07-02 18:02:44,748 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:03:15,516 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:04:01,267 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:09:13,938 root: This is a container where the ineuron was found.
+ERROR 2023-07-02 18:09:13,938 root: name 'extract_item' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 86, in text_search
+    result = extract_item(item,text)
+NameError: name 'extract_item' is not defined
+INFO 2023-07-02 18:09:56,171 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:09:56,171 root: This is a dicitionary inside a list
+ERROR 2023-07-02 18:09:56,171 root: name 'extract_item' is not defined
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 87, in text_search
+    result = extract_item(item,text)
+NameError: name 'extract_item' is not defined
+INFO 2023-07-02 18:10:11,972 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:10:11,972 root: This is a dicitionary inside a list
+ERROR 2023-07-02 18:10:11,972 root: 'Tasks' object has no attribute 'extract_item'
+Traceback (most recent call last):
+  File "C:\Users\nikhi\INeuron_DS\OOPS\task.py", line 87, in text_search
+    result = self.extract_item(item,text)
+AttributeError: 'Tasks' object has no attribute 'extract_item'
+INFO 2023-07-02 18:10:28,904 root: This is a container where the ineuron was found.
+INFO 2023-07-02 18:10:28,905 root: This is a dicitionary inside a list
+INFO 2023-07-02 18:10:28,905 root: This is the Dictionary Variable where ineuron was found
