@@ -461,3 +461,6 @@ AttributeError: 'Tasks' object has no attribute 'extract_item'
 INFO 2023-07-02 18:10:28,904 root: This is a container where the ineuron was found.
 INFO 2023-07-02 18:10:28,905 root: This is a dicitionary inside a list
 INFO 2023-07-02 18:10:28,905 root: This is the Dictionary Variable where ineuron was found
+INFO 2023-07-03 17:38:18,681 root: This is a container where the ineuron was found.
+INFO 2023-07-03 17:38:18,681 root: This is a dicitionary inside a list
+INFO 2023-07-03 17:38:18,681 root: This is the Dictionary Variable where ineuron was found

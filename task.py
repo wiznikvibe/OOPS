@@ -1,13 +1,3 @@
-# l = [[1,2,3,4] , (2,3,4,5,6) , (3,4,5,6,7) , set([23,4,5,45,4,4,5,45,45,4,5]) , {'k1' :"sudh" , "k2" : "ineuron","k3":
-#             "kumar" , 3:6 , 7:8} , ["ineuron" , "data science "]]
-
-# q3 : Try to extract all the list entity 
-# q4 : Try to extract all the dict enteties
-# q5 : Try to extract all the tuples entities
-# q6 : Try to extract all the numerical data it may b a part of dict key and values 
-# q7 : Try to give summation of all the numeric data 
-# q8 : Try to filter out all the odd values out all numeric data which is a part of a list 
-# q9 : Try to extract "ineruon" out of this data
 # q10 :Try to find out a number of occurances of all the data 
 # q11 : Try to find out number of keys in dict element
 # q12 : Try to filter out all the string data 
@@ -99,23 +89,23 @@ l = [[1,2,3,4] , (2,3,4,5,6) , (3,4,5,6,7) , set([23,4,5,45,4,4,5,45,45,4,5]) , 
 
 var_func = Tasks()
 
-# list_entities = var_func.extract_entities(l, list)
-# dict_entities = var_func.extract_entities(l, dict)
-# tuple_entities = var_func.extract_entities(l, tuple)
-# set_entities = var_func.extract_entities(l, set)
-# num_res = var_func.extract_numericals(l)
-# total = var_func.summation(l)
-# odd_entities = var_func.odd_numbers() 
+list_entities = var_func.extract_entities(l, list)
+dict_entities = var_func.extract_entities(l, dict)
+tuple_entities = var_func.extract_entities(l, tuple)
+set_entities = var_func.extract_entities(l, set)
+num_res = var_func.extract_numericals(l)
+total = var_func.summation(l)
+odd_entities = var_func.odd_numbers() 
 text_doc = var_func.text_search(l, "ineuron") 
-
-# print(odd_entities)
-# print(total)
-# print(num_res)
 print(text_doc)
-# print(list_entities)
-# print(dict_entities)
-# print(tuple_entities)
-# print(set_entities)
+print(odd_entities)
+print(total)
+print(num_res)
+
+print(list_entities)
+print(dict_entities)
+print(tuple_entities)
+print(set_entities)
 
 
 
