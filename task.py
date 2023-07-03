@@ -1,13 +1,7 @@
-# q10 :Try to find out a number of occurances of all the data 
-# q11 : Try to find out number of keys in dict element
-# q12 : Try to filter out all the string data 
-# q13 : Try to Find  out alphanum in data
-# q14 : Try to find out multiplication of all numeric value in  the individual collection inside dataset 
-# q15 : Try to unwrape all the collection inside collection and create a flat list 
+
 import logging
 logging.basicConfig(filename="logs/test.log", level=logging.INFO, format='%(levelname)s %(asctime)s %(name)s: %(message)s')
-# logging.info("This is my second code for logging.")
-# logging.warning("this is will generate a warning message in the log file.")
+
 class Tasks:
     # def __init__(self, num_list):
     def extract_entities(self,data: list, entity_type: type):
