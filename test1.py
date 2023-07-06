@@ -1,4 +1,4 @@
-# 1:32:46 Krish Naik OOPS
+
 class Person:
     # def __init__(self, name, surname, email_id, year_of_birth):
     #     # Self is a pointer which points towards the class 
@@ -26,10 +26,10 @@ class Person:
 
 
 # You can use two init functions but only the first one is considered
-# nikhil = Person()
-# # print(nikhil.age(current_year=2023,year_of_birth=1999))
+nikhil = Person()
+# print(nikhil.age(current_year=2023,year_of_birth=1999))
 
-# print(nikhil.height())
+print(nikhil.height())
 
 # Bank Schema using OOPS
 class Bank:
@@ -48,11 +48,11 @@ class Bank:
             self.balance -= amount
 
 
-# sbi = Bank("Nikhil", "Shetty")
+sbi = Bank("Nikhil", "Shetty")
 
-# sbi.deposit(50000)
-# sbi.withdraw(3500)
-# print(sbi.balance)
+sbi.deposit(50000)
+sbi.withdraw(3500)
+print(sbi.balance)
 
 class ToDoList:
 
