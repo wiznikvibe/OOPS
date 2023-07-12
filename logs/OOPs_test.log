@@ -1,1 +1,20 @@
 INFO 2023-07-11 19:56:32,971 root: Name: Sudhanshu, Age: 29
+INFO 2023-07-12 08:05:32,303 root: Name: Sudhanshu, Age: 29
+INFO 2023-07-12 08:09:21,693 root: Brand: Buggati, Model: Verron
+INFO 2023-07-12 08:13:42,241 root: Acc No: 887445qd4445ad55a5f587, Balance: 2121556000
+INFO 2023-07-12 08:19:25,644 root: Call is Being Made
+INFO 2023-07-12 09:32:46,670 root: Assigning <__main__.Manager object at 0x000001D919B357C0> to Dept: Data & ML
+INFO 2023-07-12 09:33:27,764 root: Assigning <__main__.Manager object at 0x000001D91994D970> to Dept: Data & ML
+INFO 2023-07-12 09:33:45,820 root: Assigning <__main__.Manager object at 0x000001D919A7CA90> to Dept: Data & ML
+INFO 2023-07-12 09:33:45,823 root: Assigning <__main__.StaffMember object at 0x000001D919926E50> to Dept: Sales Office
+INFO 2023-07-12 09:33:45,823 root: Assigning <__main__.StaffMember object at 0x000001D9199A1FA0> to Dept: Sales Office
+INFO 2023-07-12 09:36:01,695 root: Assigning <__main__.Manager object at 0x000001D9199ACE50> to Dept: Data & ML
+INFO 2023-07-12 09:36:01,698 root: Assigning <__main__.StaffMember object at 0x000001D9199ACF70> to Dept: Sales Office
+INFO 2023-07-12 09:36:01,698 root: Assigning <__main__.StaffMember object at 0x000001D9199ACC40> to Dept: Sales Office
+INFO 2023-07-12 09:45:58,922 root: Employee Nikhil added to department Marketing
+INFO 2023-07-12 09:45:58,922 root: Employee Alice added to department Marketing
+INFO 2023-07-12 09:45:58,922 root: Employee Bob added to department Marketing
+INFO 2023-07-12 09:45:58,922 root: Task Assigned by manager Nikhil:Prepare marketing campaign
+INFO 2023-07-12 09:45:58,922 root: The Staff Alice must attend: Marketing strategy
+INFO 2023-07-12 09:45:58,922 root: The Staff Bob must attend: Budget planning
+INFO 2023-07-12 09:45:58,922 root: Employee Alice removed from department Marketing
