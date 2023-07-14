@@ -1,0 +1,15 @@
+### To create a Virtual Enviroment
+    > conda create -p venv python=3.8
+
+
+
+### To activate venv
+    > conda activate path
+
+### To check the modules in venv 
+    > pip list 
+
+### Website for python libraries 
+    > pypi.org
+
+### Pip Commands 
